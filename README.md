@@ -26,7 +26,7 @@ Este archivo contiene los pesos de la red neuronal ya entrenada, asi que puede u
 
 ## Rendimiento
 Este experimento ha obtenido un 96% de precisión sobre el set de entrenamiento. 
-Falta realizar la evauluacion sobre el set de pruebas *
+Falta realizar la evauluación sobre el set de pruebas *
 
 ![Rendimiento](rendimiento.png)
 
