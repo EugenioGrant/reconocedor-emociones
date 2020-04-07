@@ -24,5 +24,15 @@ Este archivo es un cuaderno de Jupyter (Jupyter Notebook) para ejecutar este cua
 ### reconocedor-facial.h5
 Este archivo contiene los pesos de la red neuronal ya entrenada, asi que puede utilizar este archivo para cargar la red y realizar predicciones sin tener que volver a entrenar la red.
 
+## Rendimiento
+Este experimento ha obtenido un 96% de precisión sobre el set de entrenamiento. 
+Falta realizar la evauluacion sobre el set de pruebas *
+
+![Rendimiento](rendimiento.png)
+
+## Ejemplo de Predicción
+
+
+
 
 
