@@ -32,7 +32,7 @@ Falta realizar la evauluacion sobre el set de pruebas *
 
 ## Ejemplo de Predicción
 
-
+![Rendimiento](ejemplo.png)
 
 
 
