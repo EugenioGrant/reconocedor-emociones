@@ -16,13 +16,13 @@ Debe extraer el zip de tal forma de que quede la siguiente estructura:
   - sadness
   - surprise
 
-  - CK_PRUEBAS
-    - anger
-    - contempt
-    - fear
-    - happy
-    - sadness
-    - surprise
+- CK_PRUEBAS
+  - anger
+  - contempt
+  - fear
+  - happy
+  - sadness
+  - surprise
 
 cada folder contiene imágenes de 48x48 pixeles en blanco y negro.
 
