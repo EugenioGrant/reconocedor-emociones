@@ -1,7 +1,7 @@
 # reconocedor-emociones
 Este repositorio utiliza una red neuronal convolucional de 4 capas para clasificar las emociones de un conjunto de imágenes de entrenamiento.
 
-![Capas Convolucionales](conv_capas.png)
+![Capas Convolucionales](imagenes/conv_capas.png)
 
 ## Dataset
 Este ejemplo utiliza el dataset de emociones CK+ (tipo [FACS](https://imotions.com/blog/facial-action-coding-system/)) el cual debe descargar y ponerlo en la raíz. Desgargar el [CK.zip](https://drive.google.com/file/d/147cNhQBOCUcg5o2AYQxe1s7fVe-Fwvej/view?usp=sharing)
@@ -40,4 +40,4 @@ Este experimento ha obtenido un 96% de precisión sobre el set de entrenamiento 
 
 ## Ejemplo de Predicción
 
-![Preducción](ejemplo.png)
+![Preducción](imagenes/ejemplo.png)
