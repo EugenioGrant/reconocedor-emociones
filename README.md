@@ -1,5 +1,5 @@
 # reconocedor-emociones
-Este repositorio utiliza una red neuronal convolucional de 4 capas para clasificar las emociones de un conjunto de imágenes de entrenamiento.
+Este repositorio utiliza una red neuronal convolucional de 8 capas (cov2d y maxpool) para clasificar las emociones de un conjunto de imágenes de entrenamiento.
 
 ![Capas Convolucionales](imagenes/conv_capas.png)
 
